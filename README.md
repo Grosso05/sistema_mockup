@@ -7,4 +7,4 @@
   - colores amarillos se invierten a azules
   - cuando el logo varia mucho de las medidas del área donde sera colocado, este se altera bastante en el resultado, se "estalla" si es muy grande, o se recorta si es muy pequeño
  
-  - 
+  - El software discrimina la posicion en la que se ponen los puntos. deben ponerse en sentido de las agujas del reloj ( sup izq - sup derecha - inf derecha - inf izq)
